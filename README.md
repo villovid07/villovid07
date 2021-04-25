@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @villovid07 systems engineer located in Pasto, Colombia,I really enjoy working on software and i am looking for new challenges and oportunities to grow up
-- 👀 I’m interested in web development, because i think that is my strength rigth now, but i want to learn about mobile development some day.
-- 🌱 I’m currently learning about nodejs, java and angular 
-- 💞️ I’m looking to collaborate on every project that represents a challenge for me.
-- 📫 How to reach me @villovid07 on twitter. 
+- 👋 Hola, Me llamo David, soy ingeniero de sistemas ubicado en la ciudad de Pasto,Colombia.  Me gusta mucho el desarrollo de software y estoy en busqueda de desafios y oportunidades que me permitan crecer
+- 👀 Me interesa mucho el desarrollo web, por que creo que es mi fortaleca actual  pero quisiera tambien conocer un poco mas del desarrollo en plataformas moviles  algun dia.
+- 🌱 Actualmente estoy aprendiendo Nodejs, java y angular
+- 💞️ Me gusta mucho trabajar en cualquier proyecto que represeten un reto de aprendizaje para mi.
+- 📫  @villovid07 on twitter. 
 
 <!---
 villovid07/villovid07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
