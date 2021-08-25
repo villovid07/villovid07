@@ -2,7 +2,7 @@
 - 👀 Me interesa mucho el desarrollo web, por que creo que es mi fortaleza actual, pero quisiera tambien conocer un poco mas del desarrollo en plataformas moviles  algun dia.
 - 🌱 Actualmente estoy aprendiendo Nodejs, java y angular
 - 💞️ Me gusta mucho trabajar en cualquier proyecto que represeten un reto de aprendizaje para mi.
-- 📫  @villovid07 on twitter. 
+- 📫  villovid07@hotmail.com / villovid07@gmail.com. 
 
 <!---
 villovid07/villovid07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
